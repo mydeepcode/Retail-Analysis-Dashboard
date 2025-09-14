@@ -61,9 +61,8 @@ The retail company wants to better understand **order fulfillment patterns, deli
 🔍 **Full Dashboard Preview**
 The dashboard showcases a **dark-themed retail visualization** with KPI cards, charts, and state-level mapping to deliver a professional analytical view.
 
-🖼️ *\[Insert Dashboard Screenshot / Link]*
-
----
+🖼️**Here is the link:**
+[View Full Dashboard Image](https://github.com/mydeepcode/Retail-Analysis-Dashboard/blob/main/Retail%20Analysis%20Dashboard.png)
 
 ## 📎 Extras
 
